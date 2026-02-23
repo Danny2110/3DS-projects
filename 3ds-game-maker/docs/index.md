@@ -10,7 +10,7 @@ JumpForge 3DS is a homebrew game creation toolkit focused on:
 
 ## Repository
 
-[View source on GitHub](https://github.com/Danny2110/Jumpforge)
+[View source on GitHub](https://github.com/Danny2110/Jumpforge-3DS)
 
 ## Highlights
 
